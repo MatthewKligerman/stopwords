@@ -13,7 +13,7 @@ vw_lda.txt,Vowpal Wabbit (doc2lda),83,https://github.com/JohnLangford/vowpal_wab
 t101_minimal.txt,Text Analytics 101,85,https://bitbucket.org/kganes2/text-mining-resources/downloads/minimal-stop.txt,,"Minimal list compiled by Kavita Ganesan consisting of determiners, coordinating conjunctions and prepositions http://text-analytics101.rxnlp.com/2014/10/all-about-stop-words-for-text-mining.html"
 lexisnexis.txt,LexisNexis®,100,http://help.lexisnexis.com/tabula-rasa/totalpatent/noisewords_ref-reference?lbu=US&locale=en_US&audience=online,,“The following are 'noise words' and are never searchable: EVER HARDLY HENCE INTO NOR WERE VIZ. Others are 'noisy keywords' and are searchable by enclosing them in quotes.”
 okapi_cacm.txt,Okapi (gsl.cacm),108,http://www.staff.city.ac.uk/~andym/OKAPI-PACK/appendix-d.html,,Cacm specific stoplist from Okapi
-texfixer.txt,TextFixer,119,http://www.textfixer.com/resources/common-english-words.txt,,From textfixer.com Linked from Wiki page on Stop words.
+textfixer.txt,TextFixer,119,http://www.textfixer.com/resources/common-english-words.txt,,From textfixer.com Linked from Wiki page on Stop words.
 dkpro.txt,DKPro,127,https://github.com/dkpro/dkpro-toolbox/tree/master/dkpro.toolbox.corpus-asl/src/main/resources/corpus/stopwords,,Postgresql (Snowball derived)
 postgresql.txt,Postgres,127,https://www.postgresql.org/docs/9.1/static/textsearch-dictionaries.html#TEXTSEARCH-STOPWORDS,,"“Stop words are words that are very common, appear in almost every document, and have no discrimination value.”"
 pubmed.txt,PubMed Help,133,https://www.ncbi.nlm.nih.gov/books/NBK3827/table/pubmedhelp.T.stopwords/,,Listed in PubMed Help pages.
